@@ -7,7 +7,7 @@
 </h2>
 
 ```text
-🎓 Student / Developer @ YourUniversityOrCompany
+🎓 Student / Developer @ PTIT
 💻 Focus: Fullstack Development • System Design
 📖 Learning: Cloud Native • Microservices • AI Tools
 🎮 Hobbies: Gaming • Anime • Music • Coding • Coffee ☕
